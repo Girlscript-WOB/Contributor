@@ -1,5 +1,5 @@
 
-# GSSoC Contribution Guidelines :octocat:
+# GWOB Contribution Guidelines :octocat:
 
 Hello contributors, we hope all are doing great! :octocat:
 
@@ -8,8 +8,6 @@ This year is very special compared to previous years because we have more than 2
 [`How to get GitHub Achievement badge`](https://github.com/Girlscript-WOB/)
 [`Leaderboard updates`](https://github.com/Girlscript-WOB/)<br>
 [`GWOB Certification for contributors`](https://github.com/Girlscript-WOB/)
-
- ![image](https://github.com/GSSoC24/Contributor/assets/30715153/9f7c800e-f28c-4916-919c-cf082d4552fc)
 
 ---
 
@@ -30,7 +28,7 @@ This year is very special compared to previous years because we have more than 2
 
 We've noticed a rise in the number of cases where contributors gain high points for submissions that are not actual contributions.
 
-Every contributor should remember one thing: Labels on PRs are a must have `gssoc`, `level1` or `level2` or `level3`.
+Every contributor should remember one thing: Labels on PRs are a must have `gwob`, `level1` or `level2` or `level3`.
 - `level1`: 10 points
 - `level2`: 25 points
 - `level3`: 45 points
@@ -156,7 +154,7 @@ samples:
 
 ## Final Notes
 
-We request everyone to follow the above guidelines. Our aim is to make open source accessible to everyone, including beginners. Genuine contributions will help you build healthy relationships and secure good jobs. Let's make this year’s GSSoC one with a high number of contributors, meaningful contributions, and exciting perks.
+We request everyone to follow the above guidelines. Our aim is to make open source accessible to everyone, including beginners. Genuine contributions will help you build healthy relationships and secure good jobs. Let's make this year’s GWOB one with a high number of contributors, meaningful contributions, and exciting perks.
 
 If you find someone violating these rules, please inform us.
 

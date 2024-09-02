@@ -20,12 +20,9 @@ Issue will be assigned to Only 1 person ...FCFS basis. Others get a chance if th
 
 🌟 How to Contribute to GWOB Projects: A Step-by-Step Guide 🌟
 
-Must watch the youtube link on Guidelines: https://youtu.be/Y9PYaPZgikg <br>
-![Sanjay Viswanathan Event](https://github.com/GSSoC24/Contributor/assets/30715153/77414867-2ffa-4a82-ba9a-d5a11a8334ea)
-
 A: Choosing Projects
 
-1️⃣ 🌐Visit the GSSoC Website: Head to the official GSSoC website and navigate to the projects section. [Here](https://gs-wob.vercel.app/wobProject)
+1️⃣ 🌐Visit the GWOB Website: Head to the official GWOB website and navigate to the projects section. [Here](https://gs-wob.vercel.app/wobProject)
 
 2️⃣ 📂Find Your Match
 
@@ -102,7 +99,7 @@ Hope it helps you please mark it as answer if it solves your query.
 
 ## Common FAQ
 - What all label we should check?
-<br>Ans: Make sure you check the labels gssoc, level1,level2,level3 on issues.
+<br>Ans: Make sure you check the labels gwob, level1,level2,level3 on issues.
 
 This is how it should look like,
 

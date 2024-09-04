@@ -103,7 +103,7 @@ Hope it helps you please mark it as answer if it solves your query.
 
 This is how it should look like,
 
-![WhatsApp Image 2024-05-11 at 15 56 22_92229ded](https://github.com/GSSoC24/Contributor/assets/30715153/ffe6208f-21f9-4262-808e-31f3b2bc0a07)
+ ![gwob](https://github.com/user-attachments/assets/e62a6266-0754-473a-b728-b3f01acb2f8c)
 
 - what are the points distribution this time for PR's ?
 <br>Ans: 

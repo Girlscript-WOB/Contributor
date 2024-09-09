@@ -74,7 +74,7 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
 
 ### Report Suspicious Activity
 
-- **Raise Discussion for it with PR links**: https://github.com/GSSoC24/Contributor/discussions/categories/q-a
+- **Raise Discussion for it with PR links**: https://github.com/orgs/Girlscript-WOB/discussions
 
 ### Non-Considerable PRs
 
@@ -91,7 +91,7 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
 ## An example of this can be - 🔢
 
 1. Gaining high rep points for submission such as changing -> README.MD to README.md and getting levels for it.
-   ![image](https://github.com/GSSoC24/Contributor/assets/30715153/0e8d778d-aae4-412f-be8c-85ef5ad78cc2)
+![IMG_20240904_111551](https://github.com/user-attachments/assets/e02edc49-0289-41b3-be97-861c4915aed6)
 
 2. Contributing to the same project but each PR is having very minimal changes. This could either be changing a line of code (without actually being Impactful) or changes that are not necessary in the first place. This doesn't have to be strictly in any one project or code, line except for a typo.
    ![image](https://github.com/GSSoC24/Contributor/assets/30715153/1b11fdcd-6119-4f73-8faa-256883359bea)
@@ -99,19 +99,20 @@ If you reach the top of the leaderboard with small code snippets, repeated copy-
 3. Contributors are being PA as well for some projects. This is where contributors ask PA to give high levels for very basic changes which is not actually right.
 
 4. PA favoring one contributor - This includes assigning level3 for most of the PR, merging PR without review, and no respective issue.
-![image](https://github.com/GSSoC24/Contributor/assets/30715153/72203ff1-517e-46fc-b068-ba0dcd647e75)[Link to PR code](https://github.com/SyedImtiyaz-1/GetTechProjects/pull/345/files)
+   ![IMG_20240904_112641](https://github.com/user-attachments/assets/43021744-1380-4681-9ef3-451eb1dbb98b)
 
-5. Raising multiple Workflow issue like this, contributor can raise one single and issue or PR and get all workflows done in level 2. Gettting levels for individual PR for Workflow is not allowed.
-![image](https://github.com/GSSoC24/Contributor/assets/30715153/54fe969a-a3dd-41f2-b39b-1b70ca3e1f5b)
+5. Raising multiple Workflow issue like this, contributor can raise one single and issue or PR and get all workflows done in level 2. Gettting levels for 
+individual PR for Workflow is not allowed.
+![IMG_20240904_111405](https://github.com/user-attachments/assets/99a1ba8c-5002-43b3-9927-0a0d9bb084c0)
 
-6. Getting level3 for fixing bugs, for example the below is the deployment created in previous with level3, not the same user is getting fixing bug in deploymnet level3 again, max you can provide is level1 if code changes is less no levels should be provided.
-![image](https://github.com/GSSoC24/Contributor/assets/30715153/cc0df05a-19db-4029-b690-16c8423f463d)
+7. Getting level3 for fixing bugs, for example the below is the deployment created in previous with level3, not the same user is getting fixing bug in deploymnet level3 again, max you can provide is level1 if code changes is less no levels should be provided.
+![gwob_20240904_113016_0000](https://github.com/user-attachments/assets/1edafbff-dd79-42c8-9399-97e44b186765)
 
-7. Working beyond the repository. Example, Raising a PR on repo and getting level3 or 2 and mention the work done in different repo like server creation etc.
+8. Working beyond the repository. Example, Raising a PR on repo and getting level3 or 2 and mention the work done in different repo like server creation etc.
    All the work should be attached and explained in the Pr if it beyond any other repo. 
 ![image](https://github.com/GSSoC24/Contributor/assets/30715153/632fae36-e58a-438a-96f0-65f9a01f3d72)
 
-8. We mentioned PAs not to give more than 150 points for below mentioned projects as they are spamming if more than 150 points found in such repo by single contributor level comes down.
+9. We mentioned PAs not to give more than 150 points for below mentioned projects as they are spamming if more than 150 points found in such repo by single contributor level comes down.
    Click here for more information: [Watch the video Explanation](https://www.loom.com/share/8f2c5e1f15694c88b3b15f48da600e80?sid=fa8f79a3-21ff-4776-84a0-48952a7601f5)
 
 <br>
@@ -127,11 +128,11 @@ This is being done keeping everyone in mind for being hardworking enough to cont
 - Those who do spam after publishing the guidelines, if we notice we will further level down without any notice. 
 ### How to detect them - 💯
 
-1. If you find anyone pushing PR with changing a single change which are not necessary in a same project and gaining high reps for it. Kindly let us know. [report here](https://github.com/GSSoC24/Contributor/discussions/categories/q-a)
-2. If any PA is also accepting PR from any contributor which shouldn't be accepted in the first place or giving high reps or assigning labels that should not be given, [kindly let us know](https://github.com/GSSoC24/Contributor/discussions/categories/q-a)
-4. Anyone who suspects someone who is contributing at a particular time and his/her PR instantly is getting accepted regardless of being an actual contribution, kindly let us know [report here](https://github.com/GSSoC24/Contributor/discussions/categories/q-a)
+1. If you find anyone pushing PR with changing a single change which are not necessary in a same project and gaining high reps for it. Kindly let us know. [report here](https://github.com/orgs/Girlscript-WOB/discussions)
+2. If any PA is also accepting PR from any contributor which shouldn't be accepted in the first place or giving high reps or assigning labels that should not be given, [kindly let us know](https://github.com/orgs/Girlscript-WOB/discussions)
+4. Anyone who suspects someone who is contributing at a particular time and his/her PR instantly is getting accepted regardless of being an actual contribution, kindly let us know [report here](https://github.com/orgs/Girlscript-WOB/discussions)
 5. If anyone suspects that PA is the contributor itself or vice versa, kindly let us know @sanjay-kv
-6. Even if you find anyone suspicious kindly let us know . Mail us gssoc@girlscript.tech
+6. Even if you find anyone suspicious kindly let us know . Mail us wob@girlscript.tech
 
 ---
 
